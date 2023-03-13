@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\test55555\bin\Debug\net6.0\test55555.exe
+C:\Users\ACER\Desktop\test55555\bin\Debug\net6.0\test55555.deps.json
+C:\Users\ACER\Desktop\test55555\bin\Debug\net6.0\test55555.runtimeconfig.json
+C:\Users\ACER\Desktop\test55555\bin\Debug\net6.0\test55555.dll
+C:\Users\ACER\Desktop\test55555\bin\Debug\net6.0\test55555.pdb
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.AssemblyInfo.cs
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.dll
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\refint\test55555.dll
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.pdb
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\test55555.genruntimeconfig.cache
+C:\Users\ACER\Desktop\test55555\obj\Debug\net6.0\ref\test55555.dll
